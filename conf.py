@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "Aria"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}IMG_20220125_023724.jpg"
 site_build_date = "2022-01-25T01:48+08:00"
 author = "亚利亚社长"
 email = "2234251558@qq.com"
