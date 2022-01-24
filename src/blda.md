@@ -4,13 +4,13 @@ layout: post
 
 title: 茜香live2d
 
-slug: my-first-awesome-post
+slug: my-two-awesome-post
 
 date: 2022-01-24
 
 status: publish
 
-author: <通>
+author: 通
 
 categories: 
 
@@ -26,6 +26,6 @@ excerpt:
 
 ---
 
-茜香永远的神
+#茜香永远的神
 
 ![blhx](./images/Screenshot_2022-01-24-13-40-28-654_com.nexon.bluearchive.jpg)
