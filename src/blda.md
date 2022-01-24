@@ -4,11 +4,11 @@ layout: post
 
 title: 茜香live2d
 
-slug: 
+slug: my-first-awesome-post
 
 date: 2022-01-24
 
-status: 2022-02-24 21：58
+status: publish
 
 author: <通>
 
