@@ -4,11 +4,11 @@ layout: post
 
 title: 茜香live2d
 
-slug: 。。
+slug: 
 
 date: 2022-01-24
 
-status: publish 21：58
+status: 2022-02-24 21：58
 
 author: <通>
 
