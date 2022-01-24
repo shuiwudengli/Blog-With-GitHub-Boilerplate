@@ -4,7 +4,7 @@ layout: post
 
 title: 茜香live2d
 
-slug: my-first-awesome-post
+slug: 。。
 
 date: 2022-01-24
 
