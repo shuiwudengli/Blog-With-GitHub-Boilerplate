@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "Aria"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2022-01-25T1:30+08:00"
 author = "亚利亚社长"
 email = "2234251558@qq.com"
 author_homepage = "https://www.imalan.cn"
@@ -35,9 +35,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "",
+        "url": "",
+        "brief": ""
     }
 ]
 nav = [
@@ -60,19 +60,19 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
+        "name": "哔哩哔哩",
+        "url": "https://space.bilibili.com/4366865?share_medium=android&share_source=copy_link&bbid=XY0660500CB96A721667F3A7CC96C8BC43732&ts=1643045633842",
+        "icon": "gi gi-哔哩哔哩"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/shuiwudengli",
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "name": "邮箱",
+        "url": "2234251558@qq.com",
+        "icon": "gi Email"
     }
 ]
 
