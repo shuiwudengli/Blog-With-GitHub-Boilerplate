@@ -71,7 +71,7 @@ social_links = [
     },
     {
         "name": "邮箱",
-        "url": "<2234251558@qq.com>",
+        "url": " < 2234251558@qq.com > ",
         "icon": "gi Email"
     }
 ]
