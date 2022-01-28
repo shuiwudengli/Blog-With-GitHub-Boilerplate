@@ -8,13 +8,11 @@ source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
-
-/*template = {
+template = {
     "name": "Galileo",
     "type": "local",
     "path": "../Galileo"
-}*/
-
+}
 enable_jsdelivr = {
     "enabled": True,
     "repo": "shuiwudengli/Blog-With-GitHub-Boilerplate@gh-pages"
@@ -73,7 +71,7 @@ social_links = [
     },
     {
         "name": "邮箱",
-        "url": " < 2234251558@qq.com > ",
+        "url": "<2234251558@qq.com>",
         "icon": "gi Email"
     }
 ]
