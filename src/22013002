@@ -1,0 +1,28 @@
+---
+layout: post
+title: 文章测试
+slug: 220130
+date: 2022-01-30
+status: publish
+author: 通
+categories: 
+  - 默认分类
+tags: 
+  - 写作
+  - 
+excerpt: 
+---
+
+这里是一个页面，通过**纯纯写作**创作
+<font color="blue">颜色</font>
+![亚利亚社长](![WELCOME-TO-NEO_VENEZIA_75976932](https://cdn.jsdelivr.net/gh/shuiwudengli/images@master/WELCOME-TO-NEO_VENEZIA_75976932.53kfegdaio40.jpg))
+> one
+two
+
+three
+<p align="center">居中</p>
+~~字体~~
+
+ 1 | 2 | 3 
+- |  - |  -
+ 4 | 5 | 6
