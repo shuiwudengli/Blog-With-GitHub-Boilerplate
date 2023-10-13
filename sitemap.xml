@@ -12,15 +12,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/20230910/</loc>
-    <lastmod>2023-09-10</lastmod>
+    <loc>/archives/20231014/</loc>
+    <lastmod>2023-10-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/20231014/</loc>
-    <lastmod>2022-03-08</lastmod>
+    <loc>/archives/20230910/</loc>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
